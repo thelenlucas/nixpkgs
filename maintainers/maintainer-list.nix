@@ -25370,6 +25370,12 @@
     githubId = 3105057;
     name = "Jan Beinke";
   };
+  thelenlucas = {
+    email = "thelenlucas028@gmail.com";
+    name = "Lucas Thelen";
+    github = "thelenlucas";
+    githubId = 89479728;
+  }
   thelissimus = {
     name = "Kei";
     email = "thelissimus@tuta.io";
